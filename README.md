@@ -1,3 +1,3 @@
-# Data Science glossary and skill showcasing
+# Data Science glossary and skill showcasing in Python
 
 
