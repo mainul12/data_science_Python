@@ -1,6 +1,6 @@
 # Data Science skills showcasing in Python
 
-This repositor contains codes (mostly in the form of Jupyter Notebooks) of code practices from the following books:
+This repository contains codes (mostly in the form of Jupyter Notebooks) of code practices from the following books:
 
 - Python Data Clearning Cookbook
 - Hands-on Data Preprocessing in Python
